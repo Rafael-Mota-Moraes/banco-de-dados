@@ -1,0 +1,7 @@
+O que é dado e o que é informação?
+
+Dado = Elemento bruto geralmente proveniente de uma entrada do usuário ou de outros sistemas.
+
+Informação = Elemento processado (lapidado) constituído de dados, ela é proveniete do processamento de dados.
+
+A informação é gerada com os dados.
