@@ -1,0 +1,8 @@
+Principais bancos de dados relacionais.
+
+- Oracle database
+- PostgreSQL
+- SQL Server
+- MySql
+- MariaDB
+- SQLite
