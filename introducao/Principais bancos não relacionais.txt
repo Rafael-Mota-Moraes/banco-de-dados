@@ -1,0 +1,10 @@
+Principais bancos de dados não relacionais.
+
+- MongoDB
+- CouchDB
+- H Base
+- Redis
+- Cassandra
+- Elasticsearch
+- Oraclhe coherence
+- Firebase
