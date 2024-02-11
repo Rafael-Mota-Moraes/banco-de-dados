@@ -1,0 +1,40 @@
+Banco de dados relacional VS Não relacional
+
+Banco de dados relacionais são conhecidos como bancos SQL e os não relacionais são conhecidos como NoSQL, a sigla SQL vem de structured query language (linguagem de pesquisa estruturada), ela é uma linguagem padrão para os bancos SQL. Já NoSQL, significa Not Only SQL (não apenas SQL).
+
+
+Banco de dados relacionais.
+
+Conceito criado por Edgar Frank Codd em 1970m sendo descrito  no artigo "Relational Model of data for large data banks".
+
+Baseado no modelo relacional, onde os dados estão guardados entre tabelas, que por sua vez podem ou não ser relacionadas.
+
+Pontos fortes:
+
+OS SGBDRs - Sistemas gerenciadores de Bancod de Dados, conforme são chamados, oferecem aos usuários processos de validação, verificação e garantia de integridade dos dados.
+
+Além disso, oferecem controle de concorrência, recuperação de falhas de segurança, controle de transações, otimização de consultas, dentre outros.
+
+Pontos fracos:
+
+Dificuldade em conciliar o modelo relacional com a demanda por escalabilidade cada vez mais frequente.
+
+Dificuldade em se organizar os dados em um sistema distribuído trabalhando particionamento de dados.
+
+Banco de dados não relacional:
+
+O termo NoSQL surgiu em 1998, a partir de uma solução de banco de dados que não oferecia uma interface SQL, mas ainda assim estava baseado inicialmente na arquitetura relacional.
+
+Posteriormente, o termo passou a representar soluções que promoviam uma alternativa ao Modelo Relacional, tornando-se uma abreviação de Not Only SQL - NÃO APENAS SQL
+
+O grande diferencial aqui é a performance, pois por não utilizar um modelo estruturado em tabelas, consegue-se trabalhar com os dados de forma muito mais rápida.
+
+Características em comum:
+Como são livres ao modelo relacional, promovem alta disponibilidade e maior escalabilidade.
+
+Algumas implementações oferecem:
+- O particionamento e a replicação de dados;
+- Sistemas baseados em armazenamento chave/valor;
+- Sistemas orientados a documentos;
+- Sistemas orientados a coluna;
+- Sistemas baseados em grafos;
